@@ -1,0 +1,282 @@
+/*font-family start*/
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap')
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap')
+/*font-family end*/
+
+
+/*common css start*/
+body{
+	font-family: "Poppins", sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	color: #000000;;
+}
+/*common css end*/
+header {
+    margin: 20px 0;
+}
+.nav{}
+.logo{}
+.menu{}
+.menu ul li a {
+    margin-right: 35px;
+    font-weight: 400;
+   font-family: "Poppins", sans-serif;
+}
+.menu ul li:last-child a{
+	margin-right: 0;
+}
+.icon{
+margin-right: 10px;
+color: #000000;
+}
+.banner{}
+.b_h {
+    margin: 50px 0 20px;
+    font-size: 45px;
+}
+.b_p1{}
+.b_p2 {
+    margin: 20px 0 50px;
+    padding: 10px;
+    background-color: darkred;
+    font-family: serif;
+    font-size: 20px;
+    border-radius: 10px;
+}
+.b_img {
+    margin: 30px 0 80px;
+}
+/*item start*/
+.item {
+    margin: 20px 0 70px;
+}
+h2 {
+    font-family: sans-serif;
+    font-size: 40px;
+}
+.f_item{
+
+}
+/*product start*/
+
+.c_padding{
+    margin: 80px 0 80px;
+}
+.pro_p{
+	font-size: 24px;
+	
+}
+.pro_h{
+	font-size: 36px;
+}
+/*produc end*/
+/*feature start*/
+.feature{
+	margin: 80px 0 80px;
+}
+.f_1 {
+    border-radius: 30px;
+    background-color: #f2eaea;
+    font-size: 24px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+}
+.coffee1{}
+.slider {
+    margin: 40px 0 80px;
+}
+.f_img{}
+.c_h2 {
+    text-align: start;
+    margin: 16px 0 24px;
+    font-size: 24px;
+    font-weight: 600;
+}
+.s_n {
+    color: #554d4d;
+    font-size: 20px;
+    font-weight: 700;
+}
+.star_z {
+    text-align: start;
+}
+.star_img{}
+.c_p {
+    margin: 16px 0 16px;
+}
+.plus_img{}
+
+/*feature end*/
+
+/*about start*/
+.about{}
+.a_text {
+    margin: 80px 0 80px;
+}
+.c_btn {
+	margin-top: 24px;
+    height: 45px;
+    width: 170px;
+}
+.a_img{
+	
+}
+.c_img {
+    margin: 0px 0 80px;
+    padding-left: 10px;
+}
+.c_img2 {
+    margin: 80px 0 80px;
+}
+.p1{}
+/*about end*/
+/*testimonial start*/
+.testimonial {}
+.c_tittle {
+    margin: 0 0 50px;
+}
+.c_tittle p{
+	font-size: 20px;
+}
+.c_tittle h1{
+font-family: "Poppins", sans-serif;
+font-size: 36px;
+font-weight: 500;	
+}
+.tes_text h2{
+	font-size: 36px;
+}
+.test_p{
+padding: 20px 0 30px;
+}
+
+/*testimonial end*/
+/*blog start*/
+.blog{}
+.items{
+	margin: 80px 0 80px;
+}
+.blog_tittle{}
+.blog_item {
+   
+       padding: 15px 10px 40px;
+   border-radius: 10px 80px 10px 10px;
+-moz-border-radius: 10px 80px 10px 10px;
+-webkit-border-radius: 10px 80px 10px 10px;
+border: 2px solid #ede8ed;
+}
+.c_ul {
+
+    margin: 20px 0 20px;
+}
+
+.blg_ul ul li a {
+    color: #000000;
+    text-decoration: none;
+}
+.c_blog {
+    padding-left: 65px;
+}
+
+.blog_img{}
+.blog_img img{}
+.blog_img ul li a{
+	text-decoration: none;
+}
+.blog_p {
+    margin: 10px 0 35px;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.exbtn{
+
+    width: 175px;
+    height: 45px ;
+    border-radius:1px 22px 1px 22px;
+    color:#fff;
+    background:#563517; 
+
+}
+/*blog end*/
+/*artical start*/
+.art_blog{
+margin: 40px 0 80px;
+}
+.ar_text{
+
+}
+.ar_text p {
+    font-size: 24px;
+}
+.ar_text h1{
+	font-size: 36px;
+}
+
+/*artical end*/
+/*button start*/
+
+/*button end*/
+/*footer start*/
+.footer {
+    padding: 80px 0;
+    color: white;
+    background-color: #282A3A;
+}
+.f_address{}
+.logo{}
+.logo img {
+    padding-right: 10px;
+}
+.f_h{
+	font-size: 48px;
+	font-weight: 500;
+}
+.f_p {
+    margin: 32px 0 32px;
+    font-size: 20px;
+}
+.f_p2 {
+    margin-bottom: 60px;
+    font-size: 20px;
+}
+.f_media {
+    margin-bottom: 40px;
+}
+.f_social1{}
+.f_social2{}
+.f_social3{}
+.f_h2{
+	font-size: 28px;
+}
+.links{}
+.links ul {}
+.links ul li {
+    list-style: none;
+}
+.links ul li a {
+    color: white;
+    text-decoration: none;
+}
+.icon {
+    margin-left: 10px;
+    font-size: 25px;
+}
+footer{}
+.s_f{
+	font-size: 28px;
+
+}
+.c_form{
+	background-color: #5d5e69;
+	color: white;
+}
+.f_button{
+	background-color: #6D1600;
+}
+
+/*footer end*/
+
+
+

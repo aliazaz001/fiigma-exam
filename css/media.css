@@ -1,0 +1,395 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+ 
+.b_h {
+    margin: 35px 0 15px;
+    font-size: 30px;
+   
+}
+.b_img {
+    margin: 10px 0 50px;
+}
+.b_p2 {
+    margin: 0px 0 30px;
+}
+/*item strat*/
+.f_item {
+    margin-top: 10px;
+}
+.item {
+    margin: 0px 0 50px;
+}
+h2 {
+  
+    font-size: 30px;
+}
+/*product start*/
+.c_padding {
+    margin: 0px 0 50px;
+}
+.pro_h {
+    font-size: 30px;
+}
+.pro_p {
+    font-size: 20px;
+
+}
+/*feature start*/
+.feature {
+    margin: 50px 0 20px;
+}
+.slider {
+    margin: 20px 0 40px;
+}
+
+
+/*about start*/
+.c_img {
+    width: 140px;
+    margin: 0px 0 30px;
+}
+.c_img2 {
+    width: 140px;
+    margin: 50px 0 30px;
+}
+.c_h2 {
+    text-align: center;
+ 
+}
+.star_z {
+    text-align: center;
+}
+.c_p {
+    padding: 0 50px;
+    
+}
+
+.c_padding {
+    margin: 0px 0 40px;
+}
+.a_text {
+    margin: 50px 0 30px;
+}
+/*testimonial start*/
+.c_tittle h1 {
+    font-size: 30px;  
+}
+.test_p {
+    padding: 20px 5px 30px;
+}
+/*blog start*/
+.blog_item {
+    margin-bottom: 30px;
+   
+}
+.c_blog {
+    padding-left: 0px;
+}
+.items {
+    margin: 30px 0 45px;
+}
+/*artical start*/
+.art_blog {
+    margin: 0px 0 50px;
+}
+
+.ar_text h1 {
+    font-size: 30px;
+}
+.ar_text p {
+    font-size: 20px;
+}
+/*footer start*/
+.f_address {
+    text-align: center;
+}
+.f_media {
+    text-align: center;
+  
+}
+.f_social3 {
+    margin-top: 20px;
+}
+.footer {
+    padding: 50px 0;
+  
+}
+}
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+ 
+.b_h {
+    margin: 30px 0 10px;
+    font-size: 30px;
+    padding: 0px 100px;
+}
+
+.b_p1 {
+    padding: 0 35px;
+}
+.b_img {
+    margin: 0 0 60px;
+}
+/*item strat*/
+.f_item {
+    margin-top: 10px;
+}
+
+/*item start*/
+h2 {
+  
+    font-size: 35px;
+}
+/*product start*/
+.c_padding {
+    margin: 0px 0 40px;
+}
+.pro_h {
+    font-size: 30px;
+}
+.pro_p {
+    font-size: 20px;
+
+}
+/*feature start*/
+.coffee1 {
+    margin-top: 50px;
+}
+
+.feature {
+    margin: 30px 0 0px;
+}
+
+/*about start*/
+
+.c_h2 {
+
+    text-align: center;
+   
+}
+.star_z {
+    text-align: center;
+}
+.c_p {
+    padding: 0 50px;   
+
+}
+
+.a_text {
+    margin: 50px 0 30px;
+}
+.c_img2 {
+    margin: 50px 0 30px;
+}
+.c_img {
+	
+    margin: 0px 0 30px;
+   
+}
+/*testimonial start*/
+.c_tittle h1 {
+    font-size: 30px;  
+}
+
+.test_p {
+    padding: 20px 65px 30px;
+}
+/*blog start*/
+.blog_item {
+    margin-bottom: 30px;
+    padding: 30px 60px 60px;
+}
+.items {
+    margin: 40px 0 50px;
+}
+/*artical start*/
+.art_blog {
+    margin: 0px 0 60px;
+}
+.ar_text h1 {
+    font-size: 30px;
+}
+.ar_text p {
+    font-size: 20px;
+}
+/*footer start*/
+.f_address {
+    text-align: center;
+}
+.f_media {
+    text-align: center;
+  
+}
+.f_social3 {
+    margin-top: 20px;
+}
+.footer {
+    padding: 50px 0;
+  
+}
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+.b_h {
+    margin: 35px 0 15px;
+    font-size: 40px;
+    padding: 0 150px;
+}
+
+.b_p1 {
+    padding: 0 100px;
+}
+/*item start*/
+h2 {
+  
+    font-size: 30px;
+}
+/*feature start*/
+.coffee1 {
+    margin-top: 50px;
+}
+
+.slider {
+    margin: 20px 0 40px;
+}
+/*about start*/
+.a_img {
+    margin-top: 50px;
+}
+.c_img {
+    width: 140px;
+    margin: 0px 0 40px;
+    padding-left: 10px;
+}
+.c_img2 {
+    width: 140px;
+    margin: 50px 0 0px 50px;
+}
+
+.c_padding {
+    margin: 0px 0 40px;
+}
+.a_text {
+    margin: 50px 0 30px;
+}
+ 
+
+h2 {
+   
+    font-size: 30px;
+}
+/*testimonial start*/
+.test_p {
+    padding: 20px 130px 30px;
+}
+
+/*blog start*/
+.blog_item {
+    margin-bottom: 30px;
+    padding: 40px 80px 80px;
+}
+.items {
+    margin: 60px 0 80px;
+}
+/*artical start*/
+.art_blog {
+    margin: 0px 0 60px;
+}
+
+.ar_text h1 {
+    font-size: 36px;
+}
+.ar_text p {
+    font-size: 24px;
+}
+/*footer start*/
+.f_address {
+    text-align: center;
+}
+.f_media {
+    text-align: center;
+  
+}
+.footer {
+    padding: 50px 0;
+  
+}
+
+}
+/*  large devices (large desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+/*about start*/
+.c_img2 {
+    width: 150px;
+    margin: 80px 0 30px 80px;
+}
+.c_img {
+    width: 150px;
+
+}
+h2 {
+  
+    font-size: 30px;
+}
+/*testimonial start*/
+.tes_text h2 {
+    font-size: 30px;
+}
+/*artical start*/
+
+
+.ar_text h1 {
+    font-size: 36px;
+}
+.ar_text p {
+    font-size: 24px;
+}
+/*footer start*/
+.footer {
+    padding: 60px 0;
+  
+}
+}
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+.b_h {
+    padding: 0 60px;
+   }
+.c_img{
+    width: 200px;
+}
+.c_img2{
+    width: 200px;
+}
+/*artical start*/
+
+
+.ar_text h1 {
+    font-size: 36px;
+}
+.ar_text p {
+    font-size: 24px;
+}
+}
+
+/* Extra Extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+
+.b_h {
+    padding: 0 60px;
+   }
+/*artical start*/
+
+
+.ar_text h1 {
+    font-size: 36px;
+}
+.ar_text p {
+    font-size: 24px;
+}
+
+}
